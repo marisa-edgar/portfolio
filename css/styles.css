@@ -1,4 +1,4 @@
-img {
+.photo {
   float:right;
   padding:15px;
   width:150px;
@@ -10,4 +10,9 @@ img {
 }
 .type3{
   color:rgb(39, 39, 180);
+}
+.mango {
+  float:right;
+  width:70px;
+
 }
