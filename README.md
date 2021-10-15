@@ -7,7 +7,7 @@
 *_MD_
 *_Bootstrap_
 ## Description
-_{Landing page for my portfolio, includes about me, background, and top 5 fruits}_
+_Landing page for my portfolio, includes about me, background, and top 5 fruits_
 ## Setup/Installation Requirements
 *_Clone repository_
 *_Navigate to file_
