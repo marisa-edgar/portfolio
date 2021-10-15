@@ -2,16 +2,16 @@
 #### By_Marisa Edgar**_
 #### _Portfolio Landing Page_
 ## Technologies Used
-*_HTML
-*_CSS
-*_MD
-*_Bootstrap
+*_HTML_
+*_CSS_
+*_MD_
+*_Bootstrap_
 ## Description
 _{Landing page for my portfolio, includes about me, background, and top 5 fruits}_
 ## Setup/Installation Requirements
-*_Clone repository
-*_Navigate to file
-*_Open in browser
+*_Clone repository_
+*_Navigate to file_
+*_Open in browser_
 ## https://github.com/marisa-edgar/portfolio
 ## Known bugs
 *_No known bugs_
