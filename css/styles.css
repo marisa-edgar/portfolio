@@ -1,10 +1,10 @@
 .photo {
-  float:right;
-  padding:15px;
-  width:200px;
+  float:Right;
+  padding:2px;
+  width:100px;
   border:solid;
   position:relative;
-  top:-144px;
+  top:-100px;
 }
 .highlight {
   color:rgb(78, 78, 158)
@@ -12,8 +12,36 @@
 .type3{
   color:rgb(39, 39, 180);
 }
-.mango {
-  float:right;
-  width:70px;
+.column1 {
+  width:300px;
+  float:left;
+  margin: 4px;;
+  background-color:#f5f5f5;
+  text-align:justify;
+}
+.column2 {
+  width:300px;
+  float:left;
+  margin: 4px;;
+  background-color:#f5f5f5;
+  text-align:justify; 
+}
+.column3 {
+  width:300px;
+  float:left;
+  margin: 4px;;
+  background-color:#f5f5f5;
+  text-align:justify;
+}
 
+.column4 {
+  border: 2px #3b3d40;
+  padding: 10px;
+  background-color: #f5f5f5;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
 }
