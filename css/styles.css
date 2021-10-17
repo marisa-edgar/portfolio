@@ -7,13 +7,20 @@
   top:-100px;
 }
 .highlight {
-  color:rgb(78, 78, 158)
+  color: #2a2d34
+}
+.highlight2 {
+  color: blue
 }
 .type3{
   color:rgb(39, 39, 180);
 }
 .head{
   text-align: center;
+}
+.head2{
+  text-align: left;
+  margin-left: .25in;
 }
 .column1 {
   width:32%;
