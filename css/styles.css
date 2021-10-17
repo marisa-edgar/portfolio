@@ -1,9 +1,10 @@
 .photo {
   float:right;
   padding:15px;
-  width:150px;
-  margin:100px;
+  width:200px;
   border:solid;
+  position:relative;
+  top:-144px;
 }
 .highlight {
   color:rgb(78, 78, 158)
