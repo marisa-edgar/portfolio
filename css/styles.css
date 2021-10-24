@@ -46,13 +46,17 @@
   background-color:#f5f5f5;
   text-align:justify;
 }
-
 .column4 {
   width: 100%;
   padding: 10px;
-  border: #4c5c68;
-  border-width: 1px;
+  border: solid #4c5c68;
+  border-width: 3px;
   background-color: #b0b0b0; 
   margin-bottom:10px;
   box-sizing: border-box;
+}
+.jumbotron {
+  background-color: #b0b0b0;
+  border: solid #4c5c68;
+  border-width: 3px;
 }
