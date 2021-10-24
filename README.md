@@ -13,7 +13,7 @@ _Landing page for my portfolio, includes about me, background, and top 5 fruits_
 *_Navigate to file_
 *_Open in Terminal_
 *_Open directory in browser_* 
-## https://github.com/marisa-edgar/portfolio
+## https://marisa-edgar.github.io/portfolio/
 ## Known bugs
 *_No known bugs_
 ## License
